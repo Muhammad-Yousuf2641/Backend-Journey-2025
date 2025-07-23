@@ -21,5 +21,6 @@ public class main {
 
         // print variables 
         System.out.println(c);
+        System.out.println(c);
     }
 }
