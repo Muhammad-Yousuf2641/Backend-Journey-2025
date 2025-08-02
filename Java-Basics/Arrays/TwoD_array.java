@@ -1,4 +1,4 @@
-public class oneD_array{
+public class TwoD_array{
     public static void main(String[] args){
         // declare the variable 
         int [][] flats= new int [2][3];
