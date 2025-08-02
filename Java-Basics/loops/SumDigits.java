@@ -1,3 +1,4 @@
+//  sum of digits using while loop
 import java.util.Scanner;
 
 public class SumDigits {

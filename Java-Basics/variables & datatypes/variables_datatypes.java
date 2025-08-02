@@ -1,4 +1,4 @@
-
+//  variables and data types
 import java.util.Scanner;
 
 public class variables_datatypes {
@@ -20,7 +20,9 @@ public static void main(String[] args) {
     salary=obj.nextInt();
     
     // printing an output
-    System.out.println(" username :"+ username +" age :"+ age +" salary :"+ salary);
+    System.out.println(
+        " username :"+ username +" age :"+ age +" salary :"+ salary
+        );
 
 
 }

@@ -1,4 +1,4 @@
-
+//  control flow and conditions 
 import java.util.Scanner;
 
 // Even or Odd
@@ -15,7 +15,9 @@ public class conditions {
     number=obj.nextInt();
 
 //  conditions using ternaory operator 
-    String result = (number % 2==0) ? " Your Number is Even " : (number % 2 !=0) ? "Your Number is Even " : "invalid number";
+    String result = (number % 2==0) ? " Your Number is Even " :
+     (number % 2 !=0) ? "Your Number is Even " 
+     : "invalid number";
 
      System.out.println(result);
  }   
