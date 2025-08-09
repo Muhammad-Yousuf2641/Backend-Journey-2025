@@ -62,7 +62,7 @@ class Truck extends Vehicle {
     }
 }
 
-public class hierarchical {
+public class hierarchical_inhertance {
     public static void main(String[] args) {
         Car car = new Car("Toyota", "Corolla", 2020, 4);
         Motorcycle bike = new Motorcycle("Harley-Davidson", "Street 750", 2018, false);
