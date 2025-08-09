@@ -80,3 +80,15 @@ Learn to write clean, maintainable, and reusable code
 Be able to apply OOP concepts to small projects
 
 Prepare for Java-based projects and interviews
+
+<H2>🔗 Repository & Folder Links</H2>
+Main Repo: Backend Journey 2025
+
+OOP Folder: Object Oriented Programming
+
+<H4>📬 Connect with Me</H4>
+💼 LinkedIn: Muhammad Yousuf
+📺 YouTube: Tauruscodder
+💻 GitHub: Muhammad-Yousuf2641
+
+🌟 If this folder helps you understand OOP better, star the repository and stay tuned for more updates!
